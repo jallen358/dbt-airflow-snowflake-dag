@@ -19,7 +19,7 @@ You should be able to access the Airflow UI for your local Airflow project. To d
 You should also be able to access your Postgres Database at 'localhost:5432/postgres'.
 
 
-Then, add the 'data_pipeline' file to your dags folder and copy the dbt_dag.py contents. 
+Then, add the 'data_pipeline' folder to your dags folder and copy the dbt_dag.py and requirements.txt contents. 
 At this point, you should see the dag populate in Airflow. Be patient as it may take a few minutes
 
 ### Resources I used:
