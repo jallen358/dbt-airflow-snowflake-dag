@@ -25,6 +25,7 @@ At this point, you should see the dag populate in Airflow. Be patient as it may 
 ### Resources I used:
 - dbt [documentation](https://docs.getdbt.com/docs/introduction)
 - Astronomer [documentation](https://github.com/astronomer/astronomer-cosmos)
+
 Project Contents
 ================
 
